@@ -9,7 +9,7 @@
     "dev": "gatsby develop"
   },
   "engines": {
-    "node": "~16"
+    "node": "~18"
   },
   "dependencies": {
     "@mdx-js/mdx": "1.6.18",
